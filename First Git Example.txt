@@ -7,3 +7,5 @@ Just create how to add file
 Some feature added in this file
 
 Learn how to merge branch with master
+
+Now learn how to fork a file from another git
