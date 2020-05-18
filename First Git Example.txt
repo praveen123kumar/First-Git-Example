@@ -3,3 +3,5 @@ This is example git document
 No logic in it
 
 Just create how to add file
+
+Some feature added in this file
