@@ -5,3 +5,5 @@ No logic in it
 Just create how to add file
 
 Some feature added in this file
+
+Learn how to merge branch with master
